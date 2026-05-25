@@ -16,7 +16,7 @@ async function getJoke() {
     wise.textContent = `${xavier.setup} Answer: ${xavier.punchline}`;
   } catch (error) {
     wise.textContent =
-      "Something is wrong somewhere! It's totally our fault, we'll fix it and get back to you.";
+      "Failed to load Joke!.";
   }
 }
 
