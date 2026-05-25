@@ -6,7 +6,7 @@
 
 body {
   font-family: "Manrope", sans-serif;
-  background-color: #33cc33;
+  background-color: #069494;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,10 +15,10 @@ body {
 }
 
 .container {
-  background-color: rgb(153, 204, 255) ;
+  background-color: #18d17b;
   width: 100%;
   max-width: 28rem;
-  box-shadow: 2px 2px 10px grey;
+  box-shadow: 2px 2px 10px rgba(128, 128, 128, 0.815);
   padding: 16px;
   display: flex;
   flex-direction: column;
@@ -32,7 +32,7 @@ body {
 }
 
 .advice {
-  color: #0066ff;
+  color:  #141d9b;
   text-transform: uppercase;
   font-size: 12px;
   line-height: 1 rem;
@@ -40,7 +40,7 @@ body {
 }
 
 .writeup {
-  color: rgb(59, 57, 57);
+  color: #1e293b;
   font-size: 20px;
   font-weight: 600;
   line-height: 2rem;
@@ -61,7 +61,7 @@ body {
 
 .dice {
   border: none; 
-  background-color: #ff3300;
+  background-color: #ff8243;
   padding: 16px;
   border-radius: 1000px;
   position: absolute;
